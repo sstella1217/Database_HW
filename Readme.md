@@ -40,4 +40,6 @@ Low Inventory displays the Items in the database who's quantity is under 5.
 
 Add Inventory allows the admin to update the quantity of items in the database.
 
+![screen shot 2017-10-23 at 10 08 55 am](https://user-images.githubusercontent.com/30575480/31902713-6e539120-b7eb-11e7-8d28-18b82a75fabf.png)
+
 Add New Product allows the admin to add a new item to the database.
