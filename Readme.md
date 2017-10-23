@@ -20,6 +20,8 @@ If user is choosen a list of all the items in the database will be displayed and
 Once a correct item ID is entered the user is prompted to enter the quantity they would like to order.  After the quanity is entered if the item is in stock a message is displayed that your order has been received and a total of your total order is provided.  The user is then returned to the main screen.  The database is also updated decreasing the stock_quantity by the number ordered.
 
 
+
+
 If Admin is choosen the bamazonManager.js is run.  The Admin is given for selections to choose from Prodcuts for Sale, Low Inventory, Add Inventory and Add New Product.
 
 Products for Sale displays a list of items that are currently in the database
