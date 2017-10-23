@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+101,Drums,Percussion,800,5
+102,Xylophone,Percussion,425,3
+201,"Electric Guitar",Strings,400,10
+202,"Acoustic Guitar",Strings,250,35
+203,Banjo,Strings,380,7
+301,Clarinet,Woodwinds,200,8
+302,Saxophone,Woodwinds,350,15
+303,Oboe,Woodwinds,650,2
+401,Trombone,Brass,450,15
+402,Trumpet,Brass,375,2
