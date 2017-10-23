@@ -35,6 +35,9 @@ Products for Sale displays a list of items that are currently in the database
 
 Low Inventory displays the Items in the database who's quantity is under 5.
 
+![screen shot 2017-10-23 at 9 49 52 am](https://user-images.githubusercontent.com/30575480/31895745-98812a8e-b7d7-11e7-8c9f-e1928f004f8e.png)
+
+
 Add Inventory allows the admin to update the quantity of items in the database.
 
 Add New Product allows the admin to add a new item to the database.
