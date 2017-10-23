@@ -30,6 +30,9 @@ If Admin is choosen the bamazonManager.js is run.  The Admin is given for select
 
 Products for Sale displays a list of items that are currently in the database
 
+![screen shot 2017-10-23 at 9 46 15 am](https://user-images.githubusercontent.com/30575480/31895548-188cdcc4-b7d7-11e7-9afb-ebe727080e09.png)
+
+
 Low Inventory displays the Items in the database who's quantity is under 5.
 
 Add Inventory allows the admin to update the quantity of items in the database.
