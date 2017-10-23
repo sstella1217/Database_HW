@@ -42,4 +42,6 @@ Add Inventory allows the admin to update the quantity of items in the database.
 
 ![screen shot 2017-10-23 at 10 08 55 am](https://user-images.githubusercontent.com/30575480/31902713-6e539120-b7eb-11e7-8d28-18b82a75fabf.png)
 
+![screen shot 2017-10-23 at 10 09 46 am](https://user-images.githubusercontent.com/30575480/31902788-b6e547c6-b7eb-11e7-9c6d-04569eb0ea63.png)
+
 Add New Product allows the admin to add a new item to the database.
