@@ -48,4 +48,5 @@ Add New Product allows the admin to add a new item to the database.
 
 ![screen shot 2017-10-23 at 12 16 22 pm](https://user-images.githubusercontent.com/30575480/31902916-1c2943b2-b7ec-11e7-93bb-9816f29c4c40.png)
 
+![screen shot 2017-10-23 at 12 16 40 pm](https://user-images.githubusercontent.com/30575480/31902947-3cce9216-b7ec-11e7-8f81-7c45ed96135d.png)
 
