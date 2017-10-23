@@ -24,6 +24,10 @@ Once a correct item ID is entered the user is prompted to enter the quantity the
 
 If Admin is choosen the bamazonManager.js is run.  The Admin is given for selections to choose from Prodcuts for Sale, Low Inventory, Add Inventory and Add New Product.
 
+![screen shot 2017-10-23 at 9 43 54 am](https://user-images.githubusercontent.com/30575480/31895438-ca3280d8-b7d6-11e7-82c8-d5087cc9b716.png)
+
+
+
 Products for Sale displays a list of items that are currently in the database
 
 Low Inventory displays the Items in the database who's quantity is under 5.
