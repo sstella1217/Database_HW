@@ -12,6 +12,7 @@ Node bamazonCustomer is run and will present the first prompt asking if you are 
 
 If user is choosen a list of all the items in the database will be displayed and the user will be prompt to enter the ID of the product they would like to order. 
 
+![screen shot 2017-10-22 at 6 37 26 pm](https://user-images.githubusercontent.com/30575480/31894886-49295ec2-b7d5-11e7-980b-56e28fa7fc59.png)
 
 
 
